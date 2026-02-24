@@ -7,6 +7,7 @@ The lab focuses on implementing core data structures and algorithms using Python
 This repository documents our journey toward mastering algorithmic thinking and computational problem-solving.
 
 🧪 Experiments Covered
+
 🔗 1. Linked List
 
 - Student information management system
